@@ -1,0 +1,2 @@
+int32 is_arrived
+int32 mode1_finish

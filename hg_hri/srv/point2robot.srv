@@ -1,0 +1,9 @@
+int32 last_mode
+int32 last_mode1_idx
+int32 last_mode1_step
+int32 last_mode2_direct
+int32 last_mode3_record
+
+---
+
+string result

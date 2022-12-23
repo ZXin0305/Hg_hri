@@ -1,0 +1,18 @@
+left:
+  0-5: object_position
+  6-7: rotate
+  8-9: speed down, speed up
+  10: stop
+
+right:
+  0: None
+  1-6: six direction
+  7: init position
+  8: reset
+  9: assist position
+  10: stop
+  11: resume
+  12: record
+  13: replay
+  14: gripper open
+  15: geipper close
