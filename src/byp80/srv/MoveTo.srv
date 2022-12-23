@@ -1,0 +1,8 @@
+float32 position
+float32 speed
+float32 acceleration
+float32 torque
+float32 tolerance
+bool waitFlag
+---
+bool successful
