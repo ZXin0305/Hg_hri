@@ -1,3 +1,0 @@
-<launch>
-  <node pkg="camera_wrapper" name="kinect1_listener" type="image_listener" args="kinect2_1 false" output="screen"/>
-</launch>

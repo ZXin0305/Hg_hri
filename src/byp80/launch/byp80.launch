@@ -1,6 +1,0 @@
-<launch>
-<arg name="ip"/>
-<node pkg="byp80" name="bygripper_driver" type="byGripper.py" args="$(arg ip)"  output="screen"/>
-<node pkg="byp80" name="bygripper_status" type="byStatus.py"  args="$(arg ip)" output="screen"/>
-</launch>
-
