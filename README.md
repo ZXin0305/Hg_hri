@@ -1,6 +1,6 @@
 (1)byp80:
 BackYard机械爪的控制驱动;
-运行：roslaunch byp80 byp80 ip:="你自己设置的爪子的IP";
+运行：roslaunch byp80 byp80 ip:="你自己设置的爪子的IP"（我的是192.168.58.9）;
 这款爪子需要先在IP对应的网址进行标定再使用
 
 (2)camera_wrapper:
